@@ -5,10 +5,11 @@
 
    Link: https://jyotheeswar114.github.io/workshop_atm
 
-2. Write the formal definitions for a Labelled Transition System that models the behaviour of a Tic-Tac-Toe game board. Design and implement a web simulation based on your model. You can use any web framework to design the simulation.
+2. Write the formal definitions for a Labelled Transition System that models the behaviour of a Tic-Tac-Toe game board. Design and implement a web simulation based on your model. You can use any web framework to implement the design, provided you gave the instructions to run your code.
    
    Please note that you have to submit the assignment on github classroom in the following format:
    -  /code/\<all code files\>
+   -  /code/README.md   (This file contain instructions for running your program)
    -  /docs/atm.pdf
    -  /docs/tic_tac_toe.pdf
      
