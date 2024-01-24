@@ -9,7 +9,7 @@
    
    Please note that you have to submit the assignment on github classroom in the following format:
    -  /code/\<all code files\>
-   -  /code/README.md   (This file contain instructions for running your program)
+   -  /code/README.md   -   (This file contain instructions for running your program)
    -  /docs/atm.pdf
    -  /docs/tic_tac_toe.pdf
      
